@@ -1,3 +1,3 @@
-module go_local
+module ipCountry
 
 go 1.13
